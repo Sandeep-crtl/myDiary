@@ -1,0 +1,7 @@
+body{
+    font-family: Comfortaa;
+}
+#Loginbutton{
+    background-image: linear-gradient(to right, rgb(255, 2, 175),rgb(2, 13, 17));
+    color: aliceblue;
+}

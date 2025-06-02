@@ -1,0 +1,10 @@
+#postButton{
+    background-image: linear-gradient(to right, rgb(255, 2, 175),rgb(2, 13, 17));
+    color: aliceblue;
+}
+.formDiv{
+    border-radius: 10px;
+    /* border: 2px solid black; */
+    padding: 15px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}

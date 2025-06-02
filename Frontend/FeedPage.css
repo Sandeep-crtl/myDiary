@@ -1,0 +1,19 @@
+
+.allPosts{
+    padding:5px;
+    width:600px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.post{
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    font-family: Comfortaa; 
+}
+.viewPostButton{
+    background-image: linear-gradient(to right, rgb(255, 2, 175),rgb(2, 13, 17));
+    color:aliceblue;
+}
